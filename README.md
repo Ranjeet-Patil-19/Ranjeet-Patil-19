@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ranjeet-Patil-19
+                                   Hi 👋, I'm Ranjeet Patil🙋‍♂️
+                              A passionate Data Engineer from India
+
 - 👀 I’m interested in Python and machine lerning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking for job ML/ Data python develoer
